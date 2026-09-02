@@ -3,7 +3,7 @@
   parent: PosterBase
   id: PosterContrabandSaucerNumberOne
   name: "Saucer #1!"
-  description: "Out of every station in the NyanoTrasen jurisdiction, Saucer was rated #1 out of 5! Congratulations!"
+  description: "Out of every station in the Hestia Galactic Incorporated jurisdiction, Saucer was rated #1 out of 5! Congratulations on decomissioning!" # Euphoria - NyanoTrasen is long defunct, and thus so is this reference. Especially since NyanoTrasen doesn't exist in lore.
   components:
   - type: Sprite
     sprite: Nyanotrasen/Structures/Wallmounts/Posters/Vordenburg.rsi
@@ -34,7 +34,7 @@
   parent: PosterBase
   id: PosterLegitDejaVu
   name: "Deja Vu Area"
-  description: "This is your first time here. If this station feels familiar, immediately alert a NanoTrasen employee."
+  description: "This is your first time here. If this station feels familiar, immediately alert the Epistemics Department." # Euphoria - Contact Epistemics, not NanoTrasen, they're right there!
   components:
   - type: Sprite
     sprite: Nyanotrasen/Structures/Wallmounts/Posters/Vordenburg.rsi
